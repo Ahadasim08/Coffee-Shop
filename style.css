@@ -164,7 +164,7 @@ ul p {
   margin-top: 12;
 }
 
-@media only screen and (min-width: 400px) {
+@media only screen and (min-width: 390px) {
   .hero {
     max-width: 100%;
     font-size: 8px;
